@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="VHDL_P2.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>VHDL_P2.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
